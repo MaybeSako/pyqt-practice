@@ -1,1 +1,1 @@
-# pyqt-practice
+# scraping-practice
