@@ -1,2 +1,3 @@
 # scraping-practice
-Get sponsors of 42 Tokyo
+- Scraper for the sponsors of 42 Tokyo
+- JavaScript Selenium scraper 
